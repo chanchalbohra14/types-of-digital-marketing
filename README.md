@@ -52,9 +52,7 @@ Double-click or drag to browser
 
 ## 🎥 Demo
 
-[![Live Demo](https://types-of-digital-marketing.vercel.app/screenshot.png)](https://types-of-digital-marketing.vercel.app/)
-
-**🔗 [Live Demo](https://types-of-digital-marketing.vercel.app/)** [file:1]
+**🔗 [Live Demo](https://types-of-digital-marketing.vercel.app/)** 
 
 ---
 
